@@ -1,0 +1,10 @@
+body {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 16pt;
+    color: rgb(3, 180, 180);
+}
+
+.nav-link{
+    color: white;
+    align-content: end;
+}
