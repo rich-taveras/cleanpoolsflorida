@@ -1,2 +1,1 @@
-# cleanpoolsflorida
-Swimming Pool Company
+# clean-pools-florida
